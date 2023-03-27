@@ -1,4 +1,4 @@
-# E-Commerce-API
+# Spring Boot REST -API for E-Commerce Application
 
 ## Introduction
 A REST-Full Web Services API's for an Online Shopping App based on Spring Boot and REST API concept. 
