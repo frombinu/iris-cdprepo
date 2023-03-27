@@ -3,7 +3,7 @@
 ## Introduction
 A REST-Full Web Services API's for an Online Shopping App based on Spring Boot and REST API concept. 
 ## Details :
-My project performs fundamental operations of an e-commerce website, where our customer's data is validated, mapped, processed with business logic & persisted in the database.
+My POC performs fundamental operations of an e-commerce website, where our customer's data is validated, mapped, processed with business logic & persisted in the database.
 
 ## Used Tech Stack & Tools:
 
